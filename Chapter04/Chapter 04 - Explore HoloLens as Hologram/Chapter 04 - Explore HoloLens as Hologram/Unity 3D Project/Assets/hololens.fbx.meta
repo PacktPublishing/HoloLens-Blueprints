@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 72db2bca24539d74992c050ae05e6f5f
+timeCreated: 1495787773
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: camera_geo
+    100002: headband_adjuster_geo
+    100004: headband_part1_geo
+    100006: headband_part2_geo
+    100008: holder_geo
+    100010: //RootNode
+    100012: hololens_front_inside_panel_geo
+    100014: hololens_front_panel_geo
+    100016: hololens_geo_grp
+    100018: left_control1_geo
+    100020: left_control2_geo
+    100022: left_control3_geo
+    100024: left_controls_grp
+    100026: left_panel1_geo
+    100028: left_panel2_geo
+    100030: left_panel3_geo
+    100032: left_panel4_geo
+    100034: left_projector_geo
+    100036: left_speaker_details_geo
+    100038: left_speaker_geo
+    100040: lens_geo
+    100042: right_control1_geo
+    100044: right_control2_geo
+    100046: right_control3_geo
+    100048: right_controls_geo
+    100050: right_panel1_geo
+    100052: right_panel2_geo
+    100054: right_panel3_geo
+    100056: right_panel4_geo
+    100058: right_projector_geo
+    100060: right_speaker_geo
+    400000: camera_geo
+    400002: headband_adjuster_geo
+    400004: headband_part1_geo
+    400006: headband_part2_geo
+    400008: holder_geo
+    400010: //RootNode
+    400012: hololens_front_inside_panel_geo
+    400014: hololens_front_panel_geo
+    400016: hololens_geo_grp
+    400018: left_control1_geo
+    400020: left_control2_geo
+    400022: left_control3_geo
+    400024: left_controls_grp
+    400026: left_panel1_geo
+    400028: left_panel2_geo
+    400030: left_panel3_geo
+    400032: left_panel4_geo
+    400034: left_projector_geo
+    400036: left_speaker_details_geo
+    400038: left_speaker_geo
+    400040: lens_geo
+    400042: right_control1_geo
+    400044: right_control2_geo
+    400046: right_control3_geo
+    400048: right_controls_geo
+    400050: right_panel1_geo
+    400052: right_panel2_geo
+    400054: right_panel3_geo
+    400056: right_panel4_geo
+    400058: right_projector_geo
+    400060: right_speaker_geo
+    2300000: camera_geo
+    2300002: headband_adjuster_geo
+    2300004: headband_part1_geo
+    2300006: headband_part2_geo
+    2300008: holder_geo
+    2300010: hololens_front_inside_panel_geo
+    2300012: hololens_front_panel_geo
+    2300014: left_control1_geo
+    2300016: left_control2_geo
+    2300018: left_control3_geo
+    2300020: left_panel1_geo
+    2300022: left_panel2_geo
+    2300024: left_panel3_geo
+    2300026: left_panel4_geo
+    2300028: left_projector_geo
+    2300030: left_speaker_details_geo
+    2300032: left_speaker_geo
+    2300034: lens_geo
+    2300036: right_control1_geo
+    2300038: right_control2_geo
+    2300040: right_control3_geo
+    2300042: right_panel1_geo
+    2300044: right_panel2_geo
+    2300046: right_panel3_geo
+    2300048: right_panel4_geo
+    2300050: right_projector_geo
+    2300052: right_speaker_geo
+    3300000: camera_geo
+    3300002: headband_adjuster_geo
+    3300004: headband_part1_geo
+    3300006: headband_part2_geo
+    3300008: holder_geo
+    3300010: hololens_front_inside_panel_geo
+    3300012: hololens_front_panel_geo
+    3300014: left_control1_geo
+    3300016: left_control2_geo
+    3300018: left_control3_geo
+    3300020: left_panel1_geo
+    3300022: left_panel2_geo
+    3300024: left_panel3_geo
+    3300026: left_panel4_geo
+    3300028: left_projector_geo
+    3300030: left_speaker_details_geo
+    3300032: left_speaker_geo
+    3300034: lens_geo
+    3300036: right_control1_geo
+    3300038: right_control2_geo
+    3300040: right_control3_geo
+    3300042: right_panel1_geo
+    3300044: right_panel2_geo
+    3300046: right_panel3_geo
+    3300048: right_panel4_geo
+    3300050: right_projector_geo
+    3300052: right_speaker_geo
+    4300000: hololens_front_panel_geo
+    4300002: hololens_front_inside_panel_geo
+    4300004: camera_geo
+    4300006: left_panel1_geo
+    4300008: left_panel2_geo
+    4300010: left_panel3_geo
+    4300012: left_panel4_geo
+    4300014: right_panel1_geo
+    4300016: right_panel2_geo
+    4300018: right_panel3_geo
+    4300020: right_panel4_geo
+    4300022: right_speaker_geo
+    4300024: left_speaker_details_geo
+    4300026: left_speaker_geo
+    4300028: headband_part1_geo
+    4300030: headband_part2_geo
+    4300032: headband_adjuster_geo
+    4300034: holder_geo
+    4300036: left_projector_geo
+    4300038: right_projector_geo
+    4300040: lens_geo
+    4300042: left_control1_geo
+    4300044: left_control2_geo
+    4300046: left_control3_geo
+    4300048: right_control1_geo
+    4300050: right_control2_geo
+    4300052: right_control3_geo
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
