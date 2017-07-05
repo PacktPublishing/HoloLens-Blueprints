@@ -1,0 +1,5 @@
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Data\bin\Release\HoloBlueprint.Data.dll
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Data\bin\Release\HoloBlueprint.Data.pdb
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Data\obj\Release\HoloBlueprint.Data.csprojResolveAssemblyReference.cache
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Data\obj\Release\HoloBlueprint.Data.dll
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Data\obj\Release\HoloBlueprint.Data.pdb

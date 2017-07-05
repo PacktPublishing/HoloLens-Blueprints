@@ -1,0 +1,12 @@
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Sensors.Simulator\bin\Debug\HoloBlueprint.Sensors.Simulator.exe.config
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Sensors.Simulator\bin\Debug\HoloBlueprint.Sensors.Simulator.exe
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Sensors.Simulator\bin\Debug\HoloBlueprint.Sensors.Simulator.pdb
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Sensors.Simulator\obj\Debug\HoloBlueprint.Sensors.Simulator.csprojResolveAssemblyReference.cache
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Sensors.Simulator\obj\Debug\HoloBlueprint.Sensors.Simulator.exe
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Sensors.Simulator\obj\Debug\HoloBlueprint.Sensors.Simulator.pdb
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Sensors.Simulator\bin\Debug\HoloBlueprint.Data.dll
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Sensors.Simulator\bin\Debug\Microsoft.Data.Edm.dll
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Sensors.Simulator\bin\Debug\Microsoft.Data.OData.dll
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Sensors.Simulator\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Sensors.Simulator\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Data\Personal\HololensBlueprint\Project2\src\HoloBlueprint.Sensors.Simulator\bin\Debug\HoloBlueprint.Data.pdb
